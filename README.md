@@ -7,4 +7,4 @@
                 we can switch profile as needed.
                 Run DataSourcesTest and set your desired @profile("here") and see the test
                 
-### Second see : profile package under main package as goes to test package
+### Second see : profile package under main package as like as test package
